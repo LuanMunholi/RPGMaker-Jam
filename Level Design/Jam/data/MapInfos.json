@@ -3,10 +3,10 @@ null,
 {"id":1,"expanded":true,"name":"World Map - 01","order":1,"parentId":0,"scrollX":801,"scrollY":457.5},
 {"id":2,"expanded":true,"name":"Nicolas","order":2,"parentId":0,"scrollX":3573.818181818182,"scrollY":2273.4545454545455},
 {"id":3,"expanded":true,"name":"Switch com peso e pedra andante","order":3,"parentId":2,"scrollX":1786.909090909091,"scrollY":1136.7272727272727},
-{"id":4,"expanded":true,"name":"Switch com timing","order":4,"parentId":2,"scrollX":1786.909090909091,"scrollY":1136.7272727272727},
-{"id":5,"expanded":true,"name":"Dungeon1","order":5,"parentId":2,"scrollX":1769.4545454545455,"scrollY":1167.2727272727273},
-null,
-{"id":7,"expanded":true,"name":"D1Esquerda","order":7,"parentId":2,"scrollX":1769.4545454545455,"scrollY":1250.1818181818182},
-{"id":8,"expanded":false,"name":"D1Centro","order":6,"parentId":2,"scrollX":1786.909090909091,"scrollY":1136.7272727272727},
-{"id":9,"expanded":false,"name":"D1Direita","order":8,"parentId":2,"scrollX":1769.4545454545455,"scrollY":1136.7272727272727}
+{"id":4,"expanded":true,"name":"Switch com timing","order":4,"parentId":2,"scrollX":1084,"scrollY":602},
+{"id":5,"expanded":true,"name":"Dungeon1","order":5,"parentId":2,"scrollX":1204,"scrollY":1152},
+{"id":6,"expanded":true,"name":"Deslize em gelo","order":9,"parentId":2,"scrollX":1084,"scrollY":602},
+{"id":7,"expanded":true,"name":"D1Esquerda","order":7,"parentId":2,"scrollX":1068,"scrollY":1250},
+{"id":8,"expanded":false,"name":"D1Centro","order":6,"parentId":2,"scrollX":1068,"scrollY":724},
+{"id":9,"expanded":false,"name":"D1Direita","order":8,"parentId":2,"scrollX":1068,"scrollY":1136}
 ]
