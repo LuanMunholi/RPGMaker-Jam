@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Ilha","order":1,"parentId":0,"scrollX":2808,"scrollY":1566.8571428571427},
+{"id":2,"expanded":true,"name":"porto","order":5,"parentId":1,"scrollX":1390.2857142857142,"scrollY":2302.285714285714},
+{"id":3,"expanded":true,"name":"vila_direita","order":4,"parentId":1,"scrollX":4914,"scrollY":2742},
+{"id":4,"expanded":false,"name":"vila_inf_esquerda","order":2,"parentId":1,"scrollX":4914,"scrollY":2742},
+{"id":5,"expanded":false,"name":"vila_sup_esquerdo","order":3,"parentId":1,"scrollX":4914,"scrollY":2742},
+{"id":6,"expanded":false,"name":"floresta_central_inf","order":6,"parentId":1,"scrollX":1681.7142857142856,"scrollY":1150.2857142857142},
+{"id":7,"expanded":false,"name":"vila_central","order":7,"parentId":1,"scrollX":2449.714285714286,"scrollY":2302.285714285714},
+{"id":8,"expanded":false,"name":"floresta_central_sup","order":8,"parentId":1,"scrollX":3985.7142857142853,"scrollY":2302.285714285714},
+{"id":9,"expanded":true,"name":"Salão Principal","order":10,"parentId":10,"scrollX":1638,"scrollY":914},
+{"id":10,"expanded":true,"name":"Dungeon 01","order":9,"parentId":0,"scrollX":1404,"scrollY":783.4285714285713},
+{"id":11,"expanded":false,"name":"Corredor Esquerdo","order":11,"parentId":10,"scrollX":648.8,"scrollY":368},
+{"id":12,"expanded":true,"name":"Dungeon Esquerda","order":12,"parentId":10,"scrollX":1390.2222222222222,"scrollY":684.4444444444445},
+{"id":13,"expanded":false,"name":"Dungeo Esquerda_b","order":13,"parentId":12,"scrollX":720.8888888888889,"scrollY":601.7777777777778}
+]
