@@ -288,13 +288,13 @@ var DayPeriods = {
   $.Parameters = PluginManager.parameters('OrangeTimeSystem');
   $.Param = $.Param || {};
 
-  $.Param.useRealTime = $.Parameters.useRealTime == "true";
-  $.Param.useRealTimeStructure = $.Parameters.useRealTimeStructure == "true";
+  $.Param.useRealTime = $.Parameters.useRealTime == "false";
+  $.Param.useRealTimeStructure = $.Parameters.useRealTimeStructure == "false";
   
   if ($.Param.useRealTime) {
     $.Param.secondLength = 1000;
   } else {
-    $.Param.secondLength = Number($.Parameters.secondLength || 100);
+    $.Param.secondLength = Number($.Parameters.secondLength || 1);
 
     if (Utils.isOptionValid('test')) {
       var testingLength = Number($.Parameters.secondLengthDuringTest || 0);
