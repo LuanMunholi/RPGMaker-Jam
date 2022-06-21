@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Wulfhilda","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":6,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rolf","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"chars_walk","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"chars_portrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"Wulfhilda","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"rolf - walk","classId":6,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"chars_portrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rolf","nickname":"","note":"","profile":""}
 ]
